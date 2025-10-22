@@ -1,0 +1,9 @@
+name: NoVillagerTrading
+version: '1.0.0'
+main: de.scholle.noVillagerTrading.NoVillagerTrading
+api-version: '1.18'
+prefix: NoTrading
+load: STARTUP
+authors: [ Mobilestars ]
+description: Disables trading with villagers if configured.
+website: https://modrinth.com/project/novillagertrading
